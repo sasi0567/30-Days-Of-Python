@@ -24,3 +24,4 @@ x1,y1=3,4
 x2,y2=7,8
 distance=((x2-x1)**2+(y2-y1)**2)**0.5
 print(distance)
+# Day 1 - Exercise Complleted
