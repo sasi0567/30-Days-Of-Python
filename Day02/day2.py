@@ -31,9 +31,9 @@ print(type(a))
 print("Length of first name is:", len(first_name))
 print("Length of last name is:", len(last_name))
 
-# Numbers
-num_one = 5
-num_two = 4
+# Numbers 
+num_one =int(input("First number: "))
+num_two = int(input("Second number: "))
 
 #Some Calculations
 total = num_one + num_two
